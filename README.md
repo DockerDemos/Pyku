@@ -23,7 +23,7 @@ Once it finishes building, you can run the container with:
 
 Then, open your browser and navigate to [http://localhost:8080](http://localhost:8080) to see your randomly generated haiku.
 
-To improve startup speed, this image will not update with the latest version of the Pyku software automatically after the image is built.  When a new update is released, run the `docker build ...` command from above to get the newest version.
+To improve startup speed, this image will not update with the latest version of the Pyku software automatically once the initial image is built.  When a new update is released, run the `docker build ...` command from above to get the newest version.
 
 ##Acknowledgements##
 
