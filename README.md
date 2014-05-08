@@ -33,10 +33,6 @@ Thanks to:
 
 ##Copyright Information##
 
-Full Scree Mario is licensed under the Creative Commons [Attribution Non-Commercial Share-Alike license](http://creativecommons.org/licenses/by-nc-sa/3.0/).  
-
-DockerDemos/FullScreenMario docker container files are licensed as follows:
-
 Copyright (C) 2014 Chris Collins
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
