@@ -13,7 +13,6 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-6
 EOF
 
 /usr/bin/yum clean all
-/usr/bin/yum update -q -y --nogpgcheck
 /usr/bin/yum install -y --nogpgcheck httpd mod_wsgi python-webpy git which \
 rpm-build rpmdevtools redhat-rpm-config make gcc glibc-static \
 
