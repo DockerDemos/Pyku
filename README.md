@@ -15,11 +15,11 @@ This is a [Docker](http://docker.io) container image.  You need to have Docker i
 
 To build the image, change directories into the root of this repository, and run:
 
-`docker build -t Pyku .`  <-- note the period on the end
+`docker build -t pyku .`  <-- note the period on the end
 
 Once it finishes building, you can run the container with:
 
-`docker run -i -t -d -p 8080:80 Pyku`
+`docker run -i -t -d -p 8080:80 pyku`
 
 Then, open your browser and navigate to [http://localhost:8080](http://localhost:8080) to see your randomly generated haiku.
 
